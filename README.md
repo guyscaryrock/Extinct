@@ -1,4 +1,4 @@
-# Extict
+# Extinct
 ## Hi
 ### Hi
 Boom
